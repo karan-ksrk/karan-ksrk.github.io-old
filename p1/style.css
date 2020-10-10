@@ -9,6 +9,10 @@ html, body {
   align-content: center;
 }
 
+input {
+  width: 100%;
+}
+
 canvas {
   display: block;
 }
